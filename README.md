@@ -1,5 +1,5 @@
-##This application implement some CRUD features that will be accessed
-by user authentication/authorization using Spring Security features (JWT/OAuth2).
+##**_This application implement some CRUD features that will be accessed
+by user authentication/authorization using Spring Security features (JWT/OAuth2)._**
 
 ##The diagram below explains briefly how OAuth2 works using Authorization server and
 Authentication server (that will provide user access by checking user roles)
