@@ -1,6 +1,6 @@
-### *This project is a requirement to grant finish of module 03 (Validation & Security) from Backend (Spring Boot) course from https://devsuperior.com.br/*
+### *This project is a requirement to grant finish of module 03 (Validation & Security) from Backend (Spring Boot) course from https://devsuperior.com.br*
 
-The application implement some CRUD features that will be accessed by user authentication/authorization using Spring Security features (JWT/OAuth2).___
+The application implement some CRUD features that will be accessed by user authentication/authorization using Spring Security features (JWT/OAuth2).
 
 The diagram below explains briefly how OAuth2 works using Authorization server and Authentication server (that will provide user access by checking user roles)
 
